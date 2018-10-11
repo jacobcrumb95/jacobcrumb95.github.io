@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	background: #89ffff;
+}
+
+p{
+	margin: 25px 0 25px 0;
+	font-family: 'poirot one',cursive;
+	font-size: 150%;
+}
+
+header{
+	background: #0d061e;
+	color:white;
+	padding: 15px 15px 0 15px;
+}
+
+header h4{
+	margin: 0;
+	display: inline;
+	font-family: sans-serif;
+}
+
+nav ul{
+	margin: 0;
+	padding:0 0 0 15px;
+	display: inline;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align:center;
+}
+
+h4{
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+}
+
+nav ul li{
+	color: white;
+	display:inline;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+
+nav ul li a{
+	color: white;
+	display: inline;
+}
+
+#footer {
+	bottom:0;
+	height: 100px;
+	clear: both;
+	background:#0d061e;
+	padding: 25px;
+	color: #89ffff;
+	text-align: right;
+}
+
+.col{
+	float: left;
+	margin: 1%;
+	background: #7a1f1f;
+	color: white;
+	padding: 5px;
+	width: 31%;
+}
+
+.navbar{
+		background: #0d061e;
+}
+
+.jumbotron{
+	background: #89ffff;
+}
+
+.animated.fadeIn{
+	animation-duration: 3.5s;
+}
+
+.animated.fadeInLeft{
+	animation-delay: 1s;
+	animation-duration:1.5s;
+}
+
+.animated.fadeInRight{
+	animation-duration: 1.5s
+}
