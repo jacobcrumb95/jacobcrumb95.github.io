@@ -56,6 +56,10 @@ nav ul li a{
 }
 
 #footer {
+	position: fixed;
+    	height: 100px;
+   	bottom: 0;
+    	width: 100%;
 	clear: both;
 	background:#0d061e;
 	padding: 25px;
