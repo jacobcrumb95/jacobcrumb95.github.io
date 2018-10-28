@@ -57,7 +57,7 @@ nav ul li a{
 
 #footer {
 	position: fixed;
-    	height: 100px;
+    	height: auto;
    	bottom: 0;
     	width: 100%;
 	clear: both;
