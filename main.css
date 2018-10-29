@@ -3,6 +3,11 @@ body {
 	background: #89ffff;
 }
 
+.wrapper {
+	padding: 0;
+	margin: 0;
+}
+
 p{
 	margin: 25px 0;
 	font-family: 'poirot one';
@@ -55,14 +60,8 @@ nav ul li a{
 	display: inline;
 }
 
-#footer {
-	position: fixed;
-    	height: auto;
-   	bottom: 0;
-    	width: 100%;
-	clear: both;
+#footer {	
 	background:#0d061e;
-	padding: 25px;
 	color: #89ffff;
 	text-align: right;
 }
