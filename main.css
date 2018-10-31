@@ -61,9 +61,14 @@ nav ul li a{
 }
 
 #footer {	
+	position: fixed;
+    	height: 100px;
+        bottom: 0;
+    	width: 100%;
+	margin:0;
+	clear: both;
 	background:#0d061e;
-	color: #89ffff;
-	text-align: right;
+	padding: 25px;
 }
 
 .col{
