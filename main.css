@@ -64,9 +64,10 @@ nav ul li a{
 	position: fixed;
     	height: 100px;
         bottom: 0;
+	color: #89ffff;
     	width: 100%;
 	margin:0;
-	clear: both;
+	clear: all;
 	background:#0d061e;
 	padding: 25px;
 }
